@@ -1,0 +1,6 @@
+id - [for students] gets the group id
+help - lists all of the commands that a bot can execute
+list - [for students] lists all of the teachers that are paired to the group  
+list - [for teachers] lists all of the students that are paired to the teacher
+delete - [for teachers] to unpair from a student group
+start - [for teachers] to start a conversation with the bot
