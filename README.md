@@ -14,4 +14,17 @@ pairs with a group he/she wants then the teacher can send whatever message
 he/she likes. And this message gets forwarded to the student group that the teacher
 wants.
 
+## How do you use Connect?
 
+Click on: [this](https://telegram.me/connect_aau_bot) link, and the process is 
+straight forward from then on. If you are a teacher talk to the bot as normal.
+If you are a student add the bot to your group and pair with a teacher to get
+the optimal experience.
+
+## How do I contribute to the code?
+
+Just give us a pull request (PR) and we will be happy to respond within 6 hours.
+
+## How about a feature request?
+
+Please describe it in detail in the issue tracker. 
