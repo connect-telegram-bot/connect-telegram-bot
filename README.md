@@ -3,7 +3,7 @@
 ## What is Connect?
 
 Connect is a telegram bot that connects teachers and students. Students don't
-want Teachers to get inside their groups, because students chat a lot of things
+want teachers to get inside their groups, because students chat a lot of things
 that would be improper for teachers to see. But it will make life a lot easier
 if teachers can send files and text messages, to students that they are teaching
 that semester without getting into student groups.
