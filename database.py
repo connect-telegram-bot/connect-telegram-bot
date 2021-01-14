@@ -3,9 +3,9 @@ if you want to execute sql codes in the database, use the following idiom:
 
 	>>> import database
 	>>> database.start_connection()
-	>>> database.curr.execute("insert into groups (id,name) values (990099,'aau_math2')")
+	>>> database.execute("insert into groups (id,name,short_id) values (990099,'aau_math2','abcde')")
 	<sqlite3.Cursor object at 0x7f53f9c12810>
-	>>> a = database.curr.execute("select * from groups")
+	>>> a = database.execute("select * from groups")
 	>>> 
 	>>> for row in a.fetchall():
 	...     print(f"id: {row[0]} \t name: {row[1]}")
