@@ -1,5 +1,4 @@
 import database
-from password_generator import short_id_generator
  
 f = open("db.sql",'r')
 data = f.read()
