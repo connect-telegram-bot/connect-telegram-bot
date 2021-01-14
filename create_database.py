@@ -6,7 +6,7 @@ data = f.read()
 f.close()
 
 database.start_connection()
-database.curr.executescript(data)
+database.executescript(data)
 database.stop_connection()
 
 print("[+] Database created!! filename: main.db")

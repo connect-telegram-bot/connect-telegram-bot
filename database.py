@@ -46,6 +46,13 @@ def execute(sql_code:str,parameters=None):
 			data = curr.execute(sql_code,parameters)
 	return data	
 	
+def executescript(script:str):
+	data = None
+	with lock:
+		data = curr.executescript(script)
+	return data
+		
+	
 def stop_connection():
 	global conn,curr
 	if conn is None:
