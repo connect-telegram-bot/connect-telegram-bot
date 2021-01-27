@@ -27,4 +27,4 @@ Just give us a pull request (PR) and we will be happy to respond within 6 hours.
 
 ## How about a feature request?
 
-Please describe it in detail in the issue tracker. 
+Please describe it in detail in the issue tracker...
