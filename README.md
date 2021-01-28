@@ -24,6 +24,7 @@ the optimal experience.
 ## How do I contribute to the code?
 
 Just give us a pull request (PR) and we will be happy to respond within 6 hours.
+Students are highly appreciated to participate.
 
 ## How about a feature request?
 
