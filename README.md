@@ -21,10 +21,9 @@ straight forward from then on. If you are a teacher talk to the bot as normal.
 If you are a student add the bot to your group and pair with a teacher to get
 the optimal experience.
 
-## How do I contribute to the code?
+## Who can contribute to the code?
 
-Just give us a pull request (PR) and we will be happy to respond within 6 hours.
-Students are highly appreciated to participate.
+Basically anyone. Students are highly appreciated.
 
 ## How about a feature request?
 
