@@ -16,7 +16,8 @@ wants.
 
 ## How do you use Connect?
 
-Click on: [https://www.youtube.com/watch?v=jSe-vRZd-us](https://telegram.me/connect_aau_bot) , and the process is 
+Click on this for the tutorial:  https://www.youtube.com/watch?v=jSe-vRZd-us
+Click on this for the bot: https://telegram.me/connect_aau_bot , and the process is 
 straight forward from then on. If you are a teacher talk to the bot as normal.
 If you are a student add the bot to your group and pair with a teacher to get
 the optimal experience.
